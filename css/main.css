@@ -543,6 +543,11 @@ body {
   .travel-img {
     padding-bottom: 20px;
   }
+  .img-about {
+    max-width: 350px;
+    border-radius: 30px;
+    padding: 20px 20px;
+  }
 }
 
 @media (max-width: 500px) {
