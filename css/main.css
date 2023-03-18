@@ -544,3 +544,10 @@ body {
     padding-bottom: 20px;
   }
 }
+
+@media (max-width: 500px) {
+  .nav {
+    justify-content: space-around;
+    column-gap: 20px;
+  }
+}
